@@ -10,3 +10,5 @@ This is a git test
 好用,非常好,棒极了
 jame --> jame1
 >>>>>>> dev_Jame
+
+远程操作实例
